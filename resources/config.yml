@@ -1,0 +1,4 @@
+# Config MagicStaff by morskoi den
+# item settings
+item-name: "Magic Stick" # item name
+item-lore: ["§bWhen used, it throws enemies into the air\nand applies a slow and blind effect to them.\n§eCooldown: §660 s."] # item lore
