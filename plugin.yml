@@ -1,0 +1,9 @@
+name: MagicStick
+main: morskoi\MagicStick\MagicStick
+api: 5.27.1
+version: 1.0.0
+load: POSTWORLD
+author: morskoi den
+permissions:
+  magicstick.cmd:
+    default: op
